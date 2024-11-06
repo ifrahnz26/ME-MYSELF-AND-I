@@ -6,7 +6,7 @@
 
 ## 🚀 What I'm Passionate About:
 - **Coding** 💻: I’m all about diving deep into new programming languages, tools, and frameworks! Whether it's front-end magic or back-end wizardry, I’m here for it all. From JavaScript to Python and everything in between, I love learning and creating with code!
--**Web Design** 🎨: Crafting sleek, user-friendly, and visually appealing designs is my jam! I believe great design makes code shine ✨.
+- **Web Design** 🎨: Crafting sleek, user-friendly, and visually appealing designs is my jam! I believe great design makes code shine ✨.
 - **UI/UX** 💡: Making experiences seamless, intuitive, and delightful for users is my mission. Let's build interfaces that people will love!
 
   ## 🔧 Skills & Tools I Use:
